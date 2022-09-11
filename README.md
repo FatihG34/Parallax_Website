@@ -2,36 +2,32 @@
 
 <h1 align="center">Parallax Website</h1>
 
-<!-- 
+
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-     | 
-    <a href="https://{your-url-to-the-solution}">
-      Project
+    <a href="https://fatihg34.github.io/Parallax_Website/">
+      Parallax Website
     </a>
  
   </h3>
-</div> -->
+</div>
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-- [Overview](#overview)
+<!-- - [Overview](#overview) -->
 - [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
-- [Acknowledgements](#acknowledgements)
+<!-- - [Features](#features) -->
+<!-- - [How to use](#how-to-use) -->
+<!-- - [Acknowledgements](#acknowledgements) -->
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-<!-- ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png) -->
+![screenshot](parallax-website.gif)
 
 ### Built With
 
@@ -40,8 +36,8 @@
 - HTML
 - CSS
 
-## Acknowledgements
-- Information for your projects
+<!-- ## Acknowledgements
+- Information for your projects -->
 
 ## Contact
 
